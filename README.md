@@ -9,18 +9,16 @@ Evaluating the Impact of Video Enhancement Techniques on a Deep Sign Language Re
 ### 📁 Repository Structure
 #### CLAHE-Training.ipynb
 Notebook showing training results using CLAHE-enhanced videos.
-
 #### HE-Training.ipynb
 Notebook showing training results using Histogram Equalized videos.
-
 #### RealESRGAN-Training.ipynb
 Notebook showing training results using RealESRGAN-enhanced videos.
 
 ### 📜 Abstract
 This project investigates how preprocessing via video enhancement affects the performance of deep learning-based SLR systems. Three enhancement methods were applied:
 
-Histogram Equalization
-CLAHE (Contrast Limited Adaptive Histogram Equalization)
+##### Histogram Equalization
+##### CLAHE (Contrast Limited Adaptive Histogram Equalization)
 Real-ESRGAN (Enhanced Super-Resolution GAN)
 
 A pretrained I3D (Inflated 3D ConvNet) was trained and evaluated on each variant of the WLASL100 dataset. CLAHE-enhanced videos produced the highest classification accuracy (66%), indicating that localized contrast enhancement can improve gesture recognition performance.
