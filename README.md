@@ -51,6 +51,6 @@ Notebook showing training results using RealESRGAN-enhanced videos.
 ### 👉 Click here to access the full project on Google Drive
 ##### https://drive.google.com/drive/folders/1FRsPcOLJGY1Ckd_cH3TkxMZ-kW0jNcJZ?usp=sharing
 
-###📚 Related Resources
+### 📚 Related Resources
 ##### Real-ESRGAN GitHub Repository: https://github.com/xinntao/Real-ESRGAN
 ##### WLASL Dataset GitHub: https://github.com/dxli94/WLASL
