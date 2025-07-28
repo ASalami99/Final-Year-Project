@@ -26,7 +26,7 @@ Real-ESRGAN (Enhanced Super-Resolution GAN)
 A pretrained I3D (Inflated 3D ConvNet) was trained and evaluated on each variant of the WLASL100 dataset. CLAHE-enhanced videos produced the highest classification accuracy (66%), indicating that localized contrast enhancement can improve gesture recognition performance.
 
 ### 📊 Results Summary
-Enhancement Type	Accuracy (%)/n
+Enhancement Type	Accuracy (%)\n
 Original (No Enhancement)	62%
 Histogram Equalization	47%
 CLAHE	66%
